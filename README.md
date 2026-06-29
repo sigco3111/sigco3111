@@ -48,7 +48,6 @@
 - 📝 [Tistory 블로그](https://sigco.tistory.com/) — 주간 자동화/기술 다이제스트
 - 📰 [AI뉴스 스크랩](https://app.notion.com/p/Dev-24976f2e9097809caecdebede4ee8e2c) — Notion 자동 수집
 - 🎬 [AI뉴스 자동화](https://www.youtube.com/channel/UCCRJkEN2Yklw7T0JlGR-Q1Q) — YouTube 채널
-- ✉️ sigco3111k@gmail.com
 
 ---
 
