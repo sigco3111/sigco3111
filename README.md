@@ -36,11 +36,10 @@
 
 | 영역 | 사용 기술 |
 |---|---|
-| 🤖 **AI 코딩 어시스턴트** | `OpenCode` · `Claude Code` · `Codex` · `Cursor` · `Gemini CLI` · `Hermes Agent` |
+| 🤖 **AI 코딩 어시스턴트** | `OpenCode` · `Claude Code` · `Codex` · `Cursor` · `Gemini CLI` · `Hermes Agent` · `OpenClaw` |
 | ⚙️ **자동화** | `Hermes Agent` · `crontab` · `Notion API` · `Tistory API` · `Telegram bot` |
-| 💻 **언어** | `Python` (주력) · `TypeScript` · `Swift` · `Bash` · `Markdown` |
+| 💻 **언어** | `C` · `C++` · `Obj-C` · `Java` · `Python` · `TypeScript` · `Swift` · `Bash` · `Markdown` |
 | 🎨 **시각화** | `D3.js` · `Three.js` · `Globe.gl` · `deck.gl` · `CesiumJS` · `Manim` |
-| 🖥️ **하드웨어** | `macOS` (집) · `Linux` (회사 PC) — [두 PC 통합 워크플로](https://github.com/sigco3111) |
 
 ---
 
