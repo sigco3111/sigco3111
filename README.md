@@ -22,7 +22,7 @@
 
 ---
 
-## 🌐 Featured Project
+## 🏙️ 레포들의 도시 (sigco3111)
 
 <p align="center">
   <a href="https://sigco3111.github.io/Repolis/">
