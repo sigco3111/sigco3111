@@ -24,13 +24,26 @@
 
 ## 🌐 Featured Project
 
-### 🏙️ Repolis — 레포들의 도시
+<p align="center">
+  <a href="https://sigco3111.github.io/Repolis/">
+    <img src="https://sigco3111.github.io/Repolis/assets/banner.svg"
+         alt="Repolis — the City of Repos · Walkable 3D city of 134 GitHub repos with an LLM taxi driver"
+         width="720"/>
+  </a>
+</p>
 
-**Three.js로 구현한 walkable 3D city** — 134개 GitHub repo가 건물로 살아 숨 쉬고, LLM 택시가 어느 repo든 안내해줍니다.
+<p align="center">
+  <a href="https://sigco3111.github.io/Repolis/">
+    <img src="https://img.shields.io/badge/Live_Demo-sigco3111.github.io%2FRepolis-2bb8a3?style=for-the-badge&logo=github-pages&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/sigco3111/Repolis">
+    <img src="https://img.shields.io/badge/Source-Repository-1d3b3f?style=for-the-badge&logo=github&logoColor=white" alt="Source"/>
+  </a>
+</p>
 
-🌐 **[sigco3111.github.io/Repolis](https://sigco3111.github.io/Repolis/)** · 📦 [GitHub repo](https://github.com/sigco3111/Repolis) · 🚕 LLM 택시 · 🎨 Ghibli 톤 · 🛠 Three.js · WebGL · GitHub Actions
-
-<sub>🎨 원작자 [@hyeonsangjeon](https://github.com/hyeonsangjeon) · MIT fork</sub>
+<p align="center">
+  <sub>🎨 원작자 <a href="https://github.com/hyeonsangjeon"><b>@hyeonsangjeon</b></a> · MIT fork · Three.js · WebGL · LLM taxi</sub>
+</p>
 
 ---
 
