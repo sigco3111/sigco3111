@@ -22,6 +22,18 @@
 
 ---
 
+## 🌐 Featured Project
+
+### 🏙️ Repolis — 레포들의 도시
+
+**Three.js로 구현한 walkable 3D city** — 134개 GitHub repo가 건물로 살아 숨 쉬고, LLM 택시가 어느 repo든 안내해줍니다.
+
+🌐 **[sigco3111.github.io/Repolis](https://sigco3111.github.io/Repolis/)** · 📦 [GitHub repo](https://github.com/sigco3111/Repolis) · 🚕 LLM 택시 · 🎨 Ghibli 톤 · 🛠 Three.js · WebGL · GitHub Actions
+
+<sub>🎨 원작자 [@hyeonsangjeon](https://github.com/hyeonsangjeon) · MIT fork</sub>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -29,41 +41,6 @@
   <img src="https://github-readme-stats-sigma-kohl.vercel.app/api/top-langs/?username=sigco3111&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="langs"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sigco3111&theme=tokyonight&hide_border=true" height="165" alt="streak"/>
 </p>
-
----
-
-## 🌐 Featured Project
-
-<table>
-  <tr>
-    <td width="62%" valign="top">
-
-### 🏙️ Repolis — 레포들의 도시
-
-**Three.js로 구현한 walkable 3D city** — 134개 GitHub repo가 건물로 살아 숨 쉬고, LLM 택시가 어느 repo든 안내해줍니다.
-
-🌐 [**sigco3111.github.io/Repolis**](https://sigco3111.github.io/Repolis/) · 📦 [GitHub repo](https://github.com/sigco3111/Repolis)
-
-<sub>🎨 원작자 [**@hyeonsangjeon**](https://github.com/hyeonsangjeon) 님의 [Repolis](https://github.com/hyeonsangjeon/Repolis) (14⭐, MIT) 를 fork하여 한국어 디스크립션 + sigco3111 데이터로 재구성했습니다. 컨셉과 엔진은 원작의 훌륭한 설계 덕분입니다.</sub>
-
-    </td>
-    <td width="38%" valign="top">
-
-**🛠 Tech**  
-`Three.js` · `WebGL` · `Three-Bvh-Csg` · `GitHub Actions`
-
-**🎨 Style**  
-Studio Ghibli 톤 · 낮/밤 사이클
-
-**🚕 Feature**  
-LLM 택시 — "어느 레포 가줘" 한마디로 navigate
-
-**📐 Scale**  
-134 buildings (모든 public repo)
-
-    </td>
-  </tr>
-</table>
 
 ---
 
