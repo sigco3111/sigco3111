@@ -54,8 +54,8 @@
     <img src="https://gitfut.com/sigco3111.png?country=KR" width="280" alt="sigco3111's GitFut card — PAC/SHO/PAS/DRI/DEF/PHY"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github-readme-stats-sigma-kohl.vercel.app/api?username=sigco3111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-    <img src="https://github-readme-stats-sigma-kohl.vercel.app/api?username=sigco3111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="420" alt="GitHub stats — stars, commits, PRs"/>
+  <a href="https://github-readme-stats-sigma-kohl.vercel.app/api?username=sigco3111&show_icons=true&theme=tokyonight&hide_border=true&count_private=false">
+    <img src="https://github-readme-stats-sigma-kohl.vercel.app/api?username=sigco3111&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" width="420" alt="GitHub stats — public stats, commits, PRs"/>
   </a>
 </p>
 
@@ -67,9 +67,12 @@
   </sub>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-kohl.vercel.app/api/top-langs/?username=sigco3111&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="langs"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sigco3111&theme=tokyonight&hide_border=true" height="165" alt="streak"/>
+<p align="right">
+  <a href="https://github-readme-stats-sigma-kohl.vercel.app/api/top-langs/?username=sigco3111&layout=compact&theme=tokyonight&hide_border=true&count_private=false">
+    <img src="https://github-readme-stats-sigma-kohl.vercel.app/api/top-langs/?username=sigco3111&layout=compact&theme=tokyonight&hide_border=true&count_private=false" height="180" alt="languages — public repos only"/>
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sigco3111&theme=tokyonight&hide_border=true" height="180" alt="streak — current/longest contributions"/>
 </p>
 
 ---
