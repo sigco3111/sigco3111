@@ -13,12 +13,27 @@
 
 ---
 
-## 🏆 토큰 사용량 — 82일 5개 클라이언트 · 21개 모델
+## ⚽🃏 GitFut Card · 82일 5개 클라이언트 듀얼 스카우트 리포트
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/sigco3111/svg?template=graph&tokens=compact&cost=compact)](https://tokscale.ai/u/sigco3111)
+<p align="center">
+  <a href="https://gitfut.com/sigco3111">
+    <img src="https://gitfut.com/sigco3111.png?country=KR" width="280" alt="sigco3111's GitFut card — PAC/SHO/PAS/DRI/DEF/PHY"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tokscale.ai/u/sigco3111">
+    <img src="https://tokscale.ai/api/embed/sigco3111/svg?template=graph&tokens=compact&cost=compact" width="360" alt="Tokscale token usage — 29.8B tokens / $567"/>
+  </a>
+</p>
 
-> *"The Kardashev Scale for AI Devs"* — Claude Code · OpenCode · Codex · Cursor · Gemini CLI 통합
-> 📊 [tokscale.ai/u/sigco3111](https://tokscale.ai/u/sigco3111)
+<p align="center">
+  <sub>
+    ⚽ <a href="https://gitfut.com/sigco3111"><b>GitFut</b></a> — FIFA-style player card scored live from commits, stars & PRs
+    &nbsp;·&nbsp;
+    📊 <a href="https://tokscale.ai/u/sigco3111"><b>Tokscale</b></a> — "The Kardashev Scale for AI Devs"
+    &nbsp;·&nbsp;
+    🤖 Claude Code · OpenCode · Codex · Cursor · Gemini CLI 통합
+  </sub>
+</p>
 
 ---
 
