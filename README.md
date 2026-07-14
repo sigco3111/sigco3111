@@ -47,17 +47,15 @@
 
 ---
 
-## 📊 GitHub Stats
-
-### ⚽🃏 듀얼 스카우트 카드 — GitFut · Tokscale
+## ⚽🃏 듀얼 스카우트 카드 — GitHub Stats
 
 <p align="center">
   <a href="https://gitfut.com/sigco3111">
     <img src="https://gitfut.com/sigco3111.png?country=KR" width="280" alt="sigco3111's GitFut card — PAC/SHO/PAS/DRI/DEF/PHY"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://tokscale.ai/u/sigco3111">
-    <img src="https://tokscale.ai/api/embed/sigco3111/svg?template=graph&tokens=compact&cost=compact" width="360" alt="Tokscale token usage — 29.8B tokens / $567"/>
+  <a href="https://github-readme-stats-sigma-kohl.vercel.app/api?username=sigco3111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+    <img src="https://github-readme-stats-sigma-kohl.vercel.app/api?username=sigco3111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="420" alt="GitHub stats — stars, commits, PRs"/>
   </a>
 </p>
 
@@ -65,12 +63,11 @@
   <sub>
     ⚽ <a href="https://gitfut.com/sigco3111"><b>GitFut</b></a> — FIFA-style player card scored live from commits, stars &amp; PRs
     &nbsp;·&nbsp;
-    📊 <a href="https://tokscale.ai/u/sigco3111"><b>Tokscale</b></a> — "The Kardashev Scale for AI Devs"
+    📊 <a href="https://github-readme-stats-sigma-kohl.vercel.app/api?username=sigco3111"><b>GitHub Stats</b></a> — live stats card
   </sub>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-kohl.vercel.app/api?username=sigco3111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats"/>
   <img src="https://github-readme-stats-sigma-kohl.vercel.app/api/top-langs/?username=sigco3111&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="langs"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sigco3111&theme=tokyonight&hide_border=true" height="165" alt="streak"/>
 </p>
