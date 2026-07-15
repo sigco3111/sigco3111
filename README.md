@@ -76,8 +76,8 @@
 
 | 영역 | 사용 기술 |
 |---|---|
-| 🤖 **AI 코딩 어시스턴트** | `OpenCode` · `Claude Code` · `Codex` · `Cursor` · `Gemini CLI` · `Hermes Agent` · `OpenClaw` |
-| ⚙️ **자동화** | `Hermes Agent` · `crontab` · `Notion API` · `Tistory API` · `Telegram bot` |
+| 🤖 **AI 코딩 어시스턴트** | `OpenCode` · `Claude Code` · `Codex` · `Cursor` · `Hermes Agent` · `OpenClaw` |
+| ⚙️ **자동화** | `Hermes Agent` · `crontab` · `Notion API` · `Telegram bot` |
 | 💻 **언어** | `C` · `C++` · `Obj-C` · `Java` · `Python` · `TypeScript` · `Swift` · `Bash` · `Markdown` |
 | 🎨 **시각화** | `D3.js` · `Three.js` · `Globe.gl` · `deck.gl` · `CesiumJS` · `Manim` |
 
