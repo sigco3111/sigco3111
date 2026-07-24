@@ -47,27 +47,12 @@
 
 ---
 
-## ⚽🃏 듀얼 스카우트 카드 — GitHub Stats
+## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="left" width="300">
-      <a href="https://gitfut.com/sigco3111">
-        <img src="https://gitfut.com/sigco3111.png?country=KR" width="280" alt="sigco3111's GitFut card — PAC/SHO/PAS/DRI/DEF/PHY"/>
-      </a>
-    </td>
-    <td align="right" width="540">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sigco3111&theme=tokyonight&hide_border=true" width="500" alt="streak — 1,215 total contributions, 10 current streak, 77 longest"/>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <sub>
-    ⚽ <a href="https://gitfut.com/sigco3111"><b>GitFut</b></a> — FIFA-style player card scored live from commits, stars &amp; PRs
-    &nbsp;·&nbsp;
-    🔥 <b>Streak</b> — 1,215 total · 10 current · 77 longest
-  </sub>
+<p align="left">
+  <img src="https://github-readme-stats-sigma-kohl.vercel.app/api?username=sigco3111&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="165" alt="stats — public stats, commits, PRs, stars"/>
+  <img src="https://github-readme-stats-sigma-kohl.vercel.app/api/top-langs/?username=sigco3111&layout=compact&theme=tokyonight&hide_border=true&count_private=false" height="165" alt="languages — public repos only"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sigco3111&theme=tokyonight&hide_border=true" height="165" alt="streak — current/longest contributions"/>
 </p>
 
 ---
