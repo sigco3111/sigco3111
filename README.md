@@ -49,7 +49,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sigco3111&theme=tokyonight&hide_border=true" height="165" alt="streak — current/longest contributions"/>
 </p>
 
