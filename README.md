@@ -50,8 +50,6 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-kohl.vercel.app/api?username=sigco3111&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="165" alt="stats — public stats, commits, PRs, stars"/>
-  <img src="https://github-readme-stats-sigma-kohl.vercel.app/api/top-langs/?username=sigco3111&layout=compact&theme=tokyonight&hide_border=true&count_private=false" height="165" alt="languages — public repos only"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sigco3111&theme=tokyonight&hide_border=true" height="165" alt="streak — current/longest contributions"/>
 </p>
 
