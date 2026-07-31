@@ -22,6 +22,31 @@
 
 ---
 
+## ⚽ GitFut — sigco3111 카드 (71 SILVER · CAM · Fantasista)
+
+<p align="center">
+  <a href="https://gitfut.com/sigco3111">
+    <img src="https://gitfut.com/sigco3111.png"
+         alt="GitFut card — sigco3111: 71 SILVER CAM Fantasista (PAC 76 · SHO 64 · PAS 67 · DRI 82 · DEF 47 · PHY 71)"
+         width="320"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://gitfut.com/sigco3111">
+    <img src="https://img.shields.io/badge/GitFut-71%20SILVER-39d353?style=for-the-badge&logo=github&logoColor=white" alt="GitFut 71 SILVER"/>
+  </a>
+  <a href="https://gitfut.com/sigco3111">
+    <img src="https://img.shields.io/badge/CAM-Fantasista-c0c0c0?style=for-the-badge&logo=football&logoColor=white" alt="CAM Fantasista"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>🏗️ <b>GitFut이 측정하는 시그널</b>: PAC(올해 활동량) · SHO(별 받은 양) · PAS(외부 PR/팔로워) · DRI(언어 다양성) · DEF(리뷰/이슈) · PHY(lifetime 기여)</sub>
+</p>
+
+---
+
 ## 🏙️ 레포들의 도시 (sigco3111)
 
 <p align="center">
