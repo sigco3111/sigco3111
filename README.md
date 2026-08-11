@@ -9,6 +9,9 @@
   <a href="https://tokscale.ai/u/sigco3111">
     <img src="https://img.shields.io/badge/Tokscale-29.8B%20tokens%20%2F%20%24567-FF6B35?style=for-the-badge&logo=openai&logoColor=white" alt="Tokscale"/>
   </a>
+  <a href="https://indiedevpersona.com/profile/sigco3111">
+    <img src="https://indiedevpersona.com/api/badge/sigco3111/hermes/svg" alt="에르메스단"/>
+  </a>
 </p>
 
 ---
