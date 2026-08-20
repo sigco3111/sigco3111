@@ -1,6 +1,6 @@
 # ICBM의 실험실
 
-**AI 코딩 어시스턴트 자동화 · 데이터 시각화 · 시뮬레이션 게임 · 오픈소스 CLI** — 4개 영역을 가로지르는 빌더입니다.
+**AI 코딩 어시스턴트 자동화 · 데이터 시각화 · 시뮬레이션 게임 · 오픈소스 테스트 및 한글화** — 등을 실험하는 빌더입니다.
 
 <p align="left">
   <a href="https://toss.im/apps-in-toss/blog/2606_vibecoding_challenge">
