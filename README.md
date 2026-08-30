@@ -16,15 +16,6 @@
 
 ---
 
-## 🏆 토큰 사용량 — 82일 5개 클라이언트 · 21개 모델
-
-[![Tokscale Stats](https://tokscale.ai/api/embed/sigco3111/svg?template=graph&tokens=compact&cost=compact)](https://tokscale.ai/u/sigco3111)
-
-> *"The Kardashev Scale for AI Devs"* — Claude Code · OpenCode · Codex · Cursor · Gemini CLI 통합
-> 📊 [tokscale.ai/u/sigco3111](https://tokscale.ai/u/sigco3111)
-
----
-
 ## 🏙️ 레포들의 도시 (sigco3111)
 
 <p align="center">
@@ -77,5 +68,12 @@
 - 🎬 [AI뉴스 자동화](https://www.youtube.com/channel/UCCRJkEN2Yklw7T0JlGR-Q1Q) — YouTube 채널
 
 ---
+
+## 🏆 토큰 사용량 — 82일 5개 클라이언트 · 21개 모델
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/sigco3111/svg?template=graph&tokens=compact&cost=compact)](https://tokscale.ai/u/sigco3111)
+
+> *"The Kardashev Scale for AI Devs"* — Claude Code · OpenCode · Codex · Cursor · Gemini CLI 통합
+> 📊 [tokscale.ai/u/sigco3111](https://tokscale.ai/u/sigco3111)
 
 <sub>📊 이 README는 자동화 파이프라인으로 관리됩니다. · Last updated: 2026-06-19 · 134 public repos</sub>
