@@ -41,11 +41,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake (auto-updated)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sigco3111&theme=tokyonight&hide_border=true" height="165" alt="streak — current/longest contributions"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sigco3111/sigco3111/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sigco3111/sigco3111/output/github-snake.svg" />
+    <img alt="github contribution snake — sigco3111" src="https://raw.githubusercontent.com/sigco3111/sigco3111/output/github-snake.svg" />
+  </picture>
 </p>
+
+<sub>매일 자정 UTC 자동 갱신 · <a href="https://github.com/Platane/snk">Platane/snk</a> · 53×7 그리드</sub>
 
 ---
 

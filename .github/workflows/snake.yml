@@ -1,0 +1,33 @@
+name: Generate GitHub Snake
+
+# 매일 자정(UTC)에 자동 갱신 + 수동 트리거 가능
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # output 브랜치에 push
+    steps:
+      # 1) 뱀 SVG 생성 (sigco3111 기여 그래프 기반)
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: sigco3111
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      # 2) 결과를 output 브랜치로 push
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          keep_files: true
+          force_orphan: false
