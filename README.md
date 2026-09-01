@@ -41,20 +41,6 @@
 
 ---
 
-## 🐍 Contribution Snake (auto-updated)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sigco3111/sigco3111/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sigco3111/sigco3111/output/github-snake.svg" />
-    <img alt="github contribution snake — sigco3111" src="https://raw.githubusercontent.com/sigco3111/sigco3111/output/github-snake.svg" />
-  </picture>
-</p>
-
-<sub>매일 자정 UTC 자동 갱신 · <a href="https://github.com/Platane/snk">Platane/snk</a> · 53×7 그리드</sub>
-
----
-
 ## 🧰 Tech Stack
 
 | 영역 | 사용 기술 |
@@ -81,5 +67,21 @@
 
 > *"The Kardashev Scale for AI Devs"* — Claude Code · OpenCode · Codex · Cursor · Gemini CLI 통합
 > 📊 [tokscale.ai/u/sigco3111](https://tokscale.ai/u/sigco3111)
+
+---
+
+## 🐍 Contribution Snake (auto-updated)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sigco3111/sigco3111/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sigco3111/sigco3111/output/github-snake.svg" />
+    <img alt="github contribution snake — sigco3111" src="https://raw.githubusercontent.com/sigco3111/sigco3111/output/github-snake.svg" />
+  </picture>
+</p>
+
+<sub>매일 자정 UTC 자동 갱신 · <a href="https://github.com/Platane/snk">Platane/snk</a> · 53×7 그리드</sub>
+
+---
 
 <sub>📊 이 README는 자동화 파이프라인으로 관리됩니다. · Last updated: 2026-06-19 · 134 public repos</sub>
