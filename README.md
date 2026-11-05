@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://sigco3111.github.io/Repolis/">
-    <img src="https://sigco3111.github.io/Repolis/assets/banner.svg"
+    <img src="https://raw.githubusercontent.com/sigco3111/sigco3111/main/repolis-city-card.jpg"
          alt="Repolis — the City of Repos"
          width="720"/>
   </a>
