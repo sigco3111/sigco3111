@@ -6,10 +6,10 @@
 
 ## 🤝 Let's Connect
 
-- 🌐 [Tokscale Profile](https://tokscale.ai/u/sigco3111) — 토큰 사용량 리더보드
+- 📚 [에셋 도서관](https://sigco3111.github.io/game-asset-catalog/) — CC0 게임 에셋 수집·검색 카탈로그
 - 📰 [AI뉴스 스크랩](https://app.notion.com/p/Dev-24976f2e9097809caecdebede4ee8e2c) — Notion 자동 수집
 - 🎬 [AI뉴스 자동화](https://www.youtube.com/channel/UCCRJkEN2Yklw7T0JlGR-Q1Q) — YouTube 채널
-- 📚 [에셋 도서관](https://sigco3111.github.io/game-asset-catalog/) — CC0 게임 에셋 수집·검색 카탈로그
+- 🌐 [Tokscale Profile](https://tokscale.ai/u/sigco3111) — 토큰 사용량 리더보드
 
 ---
 
