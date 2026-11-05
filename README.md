@@ -1,15 +1,6 @@
 # ICBM의 실험실
 
-**AI 코딩 어시스턴트 자동화 · 데이터 시각화 · 시뮬레이션 게임 · 오픈소스 테스트 및 한글화** — 등을 실험하는 빌더입니다.
-
-<p align="left">
-  <a href="https://toss.im/apps-in-toss/blog/2606_vibecoding_challenge">
-    <img src="https://img.shields.io/badge/Apps%20in%20Toss-Granite%20Hackathon%20Participant-3182F6?style=for-the-badge&logo=toss&logoColor=white" alt="Toss Hackathon"/>
-  </a>
-  <a href="https://tokscale.ai/u/sigco3111">
-    <img src="https://img.shields.io/badge/Tokscale-29.8B%20tokens%20%2F%20%24567-FF6B35?style=for-the-badge&logo=openai&logoColor=white" alt="Tokscale"/>
-  </a>
-</p>
+**AI 코딩 어시스턴트 자동화 · 데이터 시각화 · 시뮬레이션 게임 · 오픈소스 한글화** — 등을 실험하는 빌더입니다.
 
 ---
 
@@ -18,7 +9,7 @@
 <p align="center">
   <a href="https://sigco3111.github.io/Repolis/">
     <img src="https://sigco3111.github.io/Repolis/assets/banner.svg"
-         alt="Repolis — the City of Repos · Walkable 3D city of 134 GitHub repos with an LLM taxi driver"
+         alt="Repolis — the City of Repos"
          width="720"/>
   </a>
 </p>
@@ -38,36 +29,36 @@
 
 ---
 
+## 🗂️ 저장소 성격 정리
+
+| 구분 | 내용 |
+|---|---|
+| 🎮 오리지널 웹게임 | 시뮬레이션·로그라이크·오토배틀 프로토타입 |
+| 🌐 오픈소스 한글화 | 게임·도구 한국어판 모음 |
+| 🧩 게임 에셋 도서관 | CC0 중심 수집·검색 카탈로그 |
+| 🛠️ 도구·대시보드 | 사용량 시각화·지식 그래프 |
+
+---
+
 ## 🧰 Tech Stack
 
 | 영역 | 사용 기술 |
 |---|---|
-| 🤖 **AI 코딩 어시스턴트** | `OpenCode` · `Claude Code` · `Codex` · `Cursor` · `Hermes Agent` · `OpenClaw` |
-| ⚙️ **자동화** | `Hermes Agent` · `crontab` · `Notion API` · `Telegram bot` |
-| 💻 **언어** | `C` · `C++` · `Obj-C` · `Java` · `Python` · `TypeScript` · `Swift` · `Bash` · `Markdown` |
-| 🎨 **시각화** | `D3.js` · `Three.js` · `Globe.gl` · `deck.gl` · `CesiumJS` · `Manim` |
+| 🤖 **AI 코딩 어시스턴트** | `OpenCode` · `Claude Code` · `Codex` · `Cursor` · `Hermes Agent` |
+| ⚙️ **자동화·배포** | `GitHub Actions` · `crontab` · `Notion API` · `Telegram bot` · `GitHub Pages` |
+| 💻 **주력 언어** | `TypeScript` · `JavaScript` · `Python` · `C/C++` · `Obj-C` · `Java` · `Swift` · `Bash` |
+| 🎨 **3D·시각화** | `Three.js` · `D3.js` · `Globe.gl` · `deck.gl` · `CesiumJS` · `Manim` |
+| 🧩 **한글화·포크에서 다룬 기술** | `Kotlin` · `GDScript` · `Lua` · `Godot` · `Babylon.js` · `React Three Fiber` |
 
 ---
 
-## 🤝 Let’s Connect
-
-- 🌐 [Tokscale Profile](https://tokscale.ai/u/sigco3111) — 토큰 사용량 리더보드
-- 📝 [Tistory 블로그](https://sigco.tistory.com/) — 주간 자동화/기술 다이제스트
-- 📰 [AI뉴스 스크랩](https://app.notion.com/p/Dev-24976f2e9097809caecdebede4ee8e2c) — Notion 자동 수집
-- 🎬 [AI뉴스 자동화](https://www.youtube.com/channel/UCCRJkEN2Yklw7T0JlGR-Q1Q) — YouTube 채널
-
----
-
-## 🏆 토큰 사용량 — 82일 5개 클라이언트 · 21개 모델
+## 🏆 토큰 사용량
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/sigco3111/svg?template=graph&tokens=compact&cost=compact)](https://tokscale.ai/u/sigco3111)
 
-> *"The Kardashev Scale for AI Devs"* — Claude Code · OpenCode · Codex · Cursor · Gemini CLI 통합
-> 📊 [tokscale.ai/u/sigco3111](https://tokscale.ai/u/sigco3111)
-
 ---
 
-## 🐍 Contribution Snake (auto-updated)
+## 🐍 컨트리뷰션 스네이크
 
 <p align="center">
   <picture>
@@ -77,8 +68,16 @@
   </picture>
 </p>
 
-<sub>매일 자정 UTC 자동 갱신 · <a href="https://github.com/Platane/snk">Platane/snk</a> · 53×7 그리드</sub>
+<sub>매일 자정 UTC 자동 갱신 · <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
 
 ---
 
-<sub>📊 이 README는 자동화 파이프라인으로 관리됩니다. · Last updated: 2026-06-19 · 134 public repos</sub>
+## 🤝 Let's Connect
+
+- 🌐 [Tokscale Profile](https://tokscale.ai/u/sigco3111) — 토큰 사용량 리더보드
+- 📰 [AI뉴스 스크랩](https://app.notion.com/p/Dev-24976f2e9097809caecdebede4ee8e2c) — Notion 자동 수집
+- 🎬 [AI뉴스 자동화](https://www.youtube.com/channel/UCCRJkEN2Yklw7T0JlGR-Q1Q) — YouTube 채널
+
+---
+
+<sub>Last updated: 2026-11-05</sub>
