@@ -16,7 +16,7 @@
 <!-- 대표:start -->
 ## ⭐ 대표 저장소
 
-<a href="https://sigco3111.github.io/showcase/"><img src="https://raw.githubusercontent.com/sigco3111/sigco3111/main/1-showcase-banner.png" alt="대표 저장소 쇼케이스 — 클릭하면 전체 쇼케이스로 이동" width="100%"></a>
+<a href="https://sigco3111.github.io/showcase/"><img src="https://raw.githubusercontent.com/sigco3111/sigco3111/main/1-showcase-banner-v2.png" alt="대표 저장소 쇼케이스 — 클릭하면 전체 쇼케이스로 이동" width="100%"></a>
 <!-- 대표:end -->
 
 ---
