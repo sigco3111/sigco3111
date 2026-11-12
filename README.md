@@ -16,9 +16,9 @@
 <!-- 대표:start -->
 ## ⭐ 대표 저장소
 
-대표로 선정된 저장소 95개입니다. 전체 카드는 [대표 저장소 쇼케이스](https://sigco3111.github.io/showcase/)에서 볼 수 있습니다.
+대표로 선정된 저장소 96개입니다. 전체 카드는 [대표 저장소 쇼케이스](https://sigco3111.github.io/showcase/)에서 볼 수 있습니다.
 
-### 🟢 대표 원작 (20)
+### 🟢 대표 원작 (21)
 - [맞고2026 : 패담](https://github.com/sigco3111/gostop2026) · [라이브](https://sigco3111.github.io/gostop2026/)
 - [붐 크리터스](https://github.com/sigco3111/boom-critters) · [라이브](https://sigco3111.github.io/boom-critters/)
 - [권력의 질서](https://github.com/sigco3111/order-of-powers) · [라이브](https://sigco3111.github.io/order-of-powers/)
@@ -39,6 +39,7 @@
 - [트레이더: STONKS-9800](https://github.com/sigco3111/stonks-9800) · [라이브](https://sigco3111.github.io/stonks-9800/)
 - [에어 매니지먼트](https://github.com/sigco3111/air-management) · [라이브](https://sigco3111.github.io/air-management/)
 - [아이언 돔](https://github.com/sigco3111/iron-dome) · [라이브](https://sigco3111.github.io/iron-dome/)
+- [도형 군단](https://github.com/sigco3111/shape-legion) · [라이브](https://sigco3111.github.io/shape-legion/)
 
 ### 🍴 대표 포크 · 한글화 (75)
 - [불씨의 서약 (이전·수정 배포본)](https://github.com/sigco3111/bulssi-seoyak) · [라이브](https://sigco3111.github.io/bulssi-seoyak/)
