@@ -19,6 +19,8 @@
 <a href="https://sigco3111.github.io/showcase/"><img src="https://raw.githubusercontent.com/sigco3111/sigco3111/main/1-showcase-banner-v4.png" alt="대표 저장소 쇼케이스 — 클릭하면 전체 쇼케이스로 이동" width="100%"></a>
 <!-- 대표:end -->
 
+<a href="https://gitfut.com/sigco3111"><img src="https://gitfut.com/sigco3111.png" width="300" alt="GitFut 선수 카드 — GitHub 활동 기반 자동 갱신"></a>
+
 ---
 
 ## 🏙️ 레포들의 도시 (sigco3111)
