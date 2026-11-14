@@ -89,7 +89,17 @@
 
 ---
 
-<a href="https://gitfut.com/sigco3111"><img src="https://gitfut.com/sigco3111.png" width="300" alt="GitFut 선수 카드 — GitHub 활동 기반 자동 갱신"></a>
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://gitfut.com/sigco3111"><img src="https://gitfut.com/sigco3111.png" width="300" alt="GitFut 선수 카드 — GitHub 활동 기반 자동 갱신"></a>
+    </td>
+    <td valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sigco3111" width="400" alt="GitHub 활동 통계 — 별·커밋·PR·이슈"><br>
+      <img src="https://streak-stats.demolab.com/?user=sigco3111" width="400" alt="GitHub 연속 활동 — 총 기여·현재/최장 스트릭">
+    </td>
+  </tr>
+</table>
 
 
 <sub>Last updated: 2026-11-06</sub>
