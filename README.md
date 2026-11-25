@@ -92,7 +92,7 @@
 <table>
   <tr>
     <td valign="top">
-      <a href="https://gitfut.com/sigco3111"><img src="https://gitfut.com/sigco3111.png" width="300" alt="GitFut 선수 카드 — GitHub 활동 기반 자동 갱신"></a>
+      <a href="https://transfergit.com/sigco3111"><img src="https://www.transfergit.com/api/og/sigco3111/portrait" width="300" alt="TransferGit 선수 카드 — GitHub 활동 기반 자동 갱신"></a>
     </td>
     <td valign="top">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sigco3111" width="400" alt="GitHub 활동 통계 — 별·커밋·PR·이슈"><br>
